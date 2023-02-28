@@ -2,7 +2,7 @@
 
 ## What Drives the Price of a Car? Jupyter Notebook
 
-Analysis Notebook: https://github.com/aditwal/UCB-ML-11.1
+Analysis Notebook: https://github.com/aditwal/UCB-ML-11.1/blob/main/used_car_value.ipynb
 
 Overview
 
